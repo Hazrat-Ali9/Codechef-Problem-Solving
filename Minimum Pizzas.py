@@ -5,3 +5,4 @@ for _ in range(int(input())):
         print(int(p/4))
     else:
         print(int(p/4)+1)
+# Minimum Pizzas 
