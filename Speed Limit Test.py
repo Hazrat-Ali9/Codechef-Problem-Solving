@@ -8,3 +8,4 @@ for _ in range(int(input())):
         print("Alice")
     else:
         print("Equal")
+# speed limit test
