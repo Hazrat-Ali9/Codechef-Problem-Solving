@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 int main(void) {
-
+	
 	int m,sum=0;
 	scanf("%d",&m);
 	while(m--){
 	    int a,b,c;
 	    scanf("%d %d %d",&a,&b,&c);
-	    sum = m/a;
+	    sum = c/b;
 	    if(sum >= a){
 	        printf("%d\n",a);
 	    }
@@ -15,3 +15,4 @@ int main(void) {
 	}
 	return 0;
 }
+
