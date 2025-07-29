@@ -4,4 +4,4 @@ for _ in range(t):
     if n % 3 == 0:
         print("YES")
     else:
-        print("NO")
+        print("NO")Chef On Date
